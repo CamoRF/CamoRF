@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @CamoRF.
-- 👀 I’m interested in ... Red Faction modding.
-- 🌱 I’m currently learning ... Scripting, texture editing, general file editing of the Red Faction games etc.
-- 💞️ I’m looking to collaborate on ... Community patches for RF:G and RF:A.
-- 📫 How to reach me ... Camo#2351 on Discord.
-
-<!---
-CamoRF/CamoRF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Mod author interested in making mods for my favourite games, I've modded many titles such as Red Faction Guerrilla, Red Faction Armageddon, Fallout New Vegas, GTA V & more. 
+- Primarily working on the [RF:G Terraform Patch](https://github.com/CamoRF/Red-Faction-Guerrilla-Terraform-Patch). A Work-in-progress project that adds content, fixes bugs, and enhances many features; made for the 2018 remaster of Red Faction Guerrilla.
+- Also contributing to [Nanoforge](https://github.com/Moneyl/Nanoforge). A map editor and modding tool for the 2018 remaster of Red Faction Guerrilla.
