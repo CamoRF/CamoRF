@@ -1,4 +1,4 @@
-- Game developer, mod author & project manager interested in making mods for my favourite games, I've modded many popular titles such as Red Faction Guerrilla, Red Faction Armageddon, Fallout New Vegas, GTA V & more.
+- Game developer, mod author, project manager, ex community manager interested in making mods for my favourite games, I've modded many popular titles such as Red Faction Guerrilla, Red Faction Armageddon, Fallout New Vegas, GTA V & more.
 - Author of [Crime & Police Rebalance and Enhancement](https://www.youtube.com/watch?v=fOE1VQRKV5o). One of the most popular mods for GTA V with thousands of downloads.
 - Primarily working on the [RF:G Terraform Patch](https://github.com/CamoRF/Red-Faction-Guerrilla-Terraform-Patch). A Work-in-progress project that adds content, fixes bugs, and enhances many features; made for the 2018 remaster of Red Faction Guerrilla.
 - Also contributing to [Nanoforge](https://github.com/Moneyl/Nanoforge). A map editor and modding tool for the 2018 remaster of Red Faction Guerrilla.
